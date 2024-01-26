@@ -7,6 +7,7 @@ import Apk from "./Components/Apk/page"
 import Opiniones from "./Components/Opiniones/page"
 import Bonus from "./Components/Bonus/page"
 import Planes from "./Components/Planes/page"
+import Recordatorio from "./Components/Recordatorio/page"
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Opiniones />
       <Bonus />
       <Planes />
+      <Recordatorio />
     </main>
   );
 }
