@@ -4,11 +4,11 @@ import React from 'react'
 
 export default function page() {
   return (
-    <section className=""> 
+    <section className="mx-[100px]"> 
       <div className="pt-9 pb-9 pl-4 pr-4 flex flex-col justify-center items-center">
         <h2 className=' font-bold text-4xl'>Beneficios de nuestro programa Bachillerato en tiempo récord</h2>
         <div className="w-full h-full flex mt-10">
-          <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full mx-[100px]">
+          <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full">
             
             <div className="">
               <div className="">

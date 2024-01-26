@@ -4,12 +4,12 @@ import React from 'react'
 
 export default function page() {
   return (
-    <section className=""> 
-      <div className="pt-9 pb-9 pl-4 pr-4 flex flex-col justify-center items-center">
+    <section className=" mx-[100px]"> 
+      <div className="pt-9 pb-9 pl-4 pr-4 flex flex-col justify-center items-center ">
         <h2 className=' font-bold text-4xl'>Desde el año 2007 realizando ceremonias de graduació</h2>
         <p className='mt-5'>Nuestros años de experiencia nos definen en calidad de servicio que no encontrarás en otra institución</p>
         <div className="w-full h-full flex mt-10">
-          <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full mx-[100px]">
+          <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full ">
             
             <div className="">
               <div className="">
@@ -54,7 +54,7 @@ export default function page() {
       <div className="pt-9 pb-9 pl-4 pr-4 flex flex-col justify-center items-center">
         <h2 className=' text-center font-bold text-4xl'>Mira lo que dicen los principales medios del país sobre Klazia</h2>
         <div className="w-full h-full flex mt-10">
-          <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full mx-[100px]">
+          <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full">
             
             <div className="flex flex-col items-center shadow-lg">
               <div className="">

@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function page() {
   return (
-    <section className='flex mx-[115px]'>
+    <section className='flex mx-[100px]'>
       <div className='w-1/2 flex flex-col justify-center '>
         <h2 className=' font-bold text-4xl mb-3'>ESTUDIA DESDE EL CELULAR CON NUESTRA APP KLAZIA</h2>
         <p className="">
