@@ -5,6 +5,8 @@ import Obtener from "./Components/Obtener/page"
 import Desde from "./Components/Desde/page"
 import Apk from "./Components/Apk/page"
 import Opiniones from "./Components/Opiniones/page"
+import Bonus from "./Components/Bonus/page"
+import Planes from "./Components/Planes/page"
 
 export default function Home() {
   return (
@@ -15,6 +17,8 @@ export default function Home() {
       <Desde />
       <Apk />
       <Opiniones />
+      <Bonus />
+      <Planes />
     </main>
   );
 }
