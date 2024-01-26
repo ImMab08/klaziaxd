@@ -2,7 +2,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from 'react'
 
-export default function page() {
+export default function Page() {
   return (
     <section className=" mx-[100px]"> 
       <div className="pt-9 pb-9 pl-4 pr-4 flex flex-col justify-center items-center ">

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function page() {
+export default function Page() {
   return (
     <section className=" bg-cover bg-center" style={{backgroundImage: 'url(https://klazia.nyc3.digitaloceanspaces.com/landing/activities-bg.jpeg)'}}> 
       <div className=" flex flex-col pt-9 pb-9 pl-4 pr-4 ">
